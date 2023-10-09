@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\refint\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ref\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\bin\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\refint\ReadFromTextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ReadFromTextFile.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\19 - Read From Text File\ReadFromTextFile\ReadFromTextFile\obj\Debug\net6.0\ref\ReadFromTextFile.dll
